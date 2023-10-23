@@ -1,6 +1,6 @@
 # SSC0603-DataStructure-I
 
-## About 🚨
+## 🚨 About 
 
 Repository for Data Structure projects made during the subject.
 
